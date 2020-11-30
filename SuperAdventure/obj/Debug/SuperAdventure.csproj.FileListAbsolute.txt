@@ -1,0 +1,40 @@
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.TradingScreen.resources
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\git\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\git\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\git\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\git\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\git\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojAssemblyReference.cache
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.TradingScreen.resources
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\git\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

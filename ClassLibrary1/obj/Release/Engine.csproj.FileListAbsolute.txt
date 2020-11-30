@@ -1,0 +1,6 @@
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\bin\Release\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\bin\Release\Engine.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Release\Engine.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Release\Engine.csproj.CoreCompileInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Release\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Release\Engine.pdb

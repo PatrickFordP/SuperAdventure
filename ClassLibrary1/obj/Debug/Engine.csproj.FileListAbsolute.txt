@@ -1,0 +1,18 @@
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\bin\Debug\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\bin\Debug\Engine.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Debug\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\ClassLibrary1\obj\Debug\Engine.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\bin\Debug\Engine.dll
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\bin\Debug\Engine.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\obj\Debug\Engine.dll
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\obj\Debug\Engine.pdb
+C:\Users\Patri\Documents\Bitbucket\Games\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\git\SuperAdventure\ClassLibrary1\bin\Debug\Engine.dll
+C:\git\SuperAdventure\ClassLibrary1\bin\Debug\Engine.pdb
+C:\git\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\git\SuperAdventure\ClassLibrary1\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\git\SuperAdventure\ClassLibrary1\obj\Debug\Engine.dll
+C:\git\SuperAdventure\ClassLibrary1\obj\Debug\Engine.pdb

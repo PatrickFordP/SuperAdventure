@@ -1,0 +1,9 @@
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.pdb

@@ -1,0 +1,12 @@
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe.config
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.exe
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Release\SuperAdventure.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Release\Engine.dll
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\bin\Release\Engine.pdb
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.Cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.exe
+c:\users\patri\documents\visual studio 2017\Projects\SuperAdventure\SuperAdventure\obj\Release\SuperAdventure.pdb
